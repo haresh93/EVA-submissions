@@ -1,1 +1,1 @@
-# MNIST-CNN
+# EVA Submissions
